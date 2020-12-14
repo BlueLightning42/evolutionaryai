@@ -1,0 +1,18 @@
+Package: fmt
+Version: 7.1.0
+Architecture: x86-windows
+Multi-Arch: same
+Abi: 4c5c03c6c47bb3e32fe1734319cee16e882af4bb
+Description: Formatting library for C++. It can be used as a safe alternative to printf or as a fast alternative to IOStreams.
+Type: Port
+Status: purge ok not-installed
+
+Package: fmt
+Version: 7.1.0
+Architecture: x64-windows
+Multi-Arch: same
+Abi: 5a01d5954236a10a9aefda1a598d7d13527b091f
+Description: Formatting library for C++. It can be used as a safe alternative to printf or as a fast alternative to IOStreams.
+Type: Port
+Status: install ok installed
+
